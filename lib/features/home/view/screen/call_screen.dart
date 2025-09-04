@@ -31,7 +31,6 @@ class CallScreen extends StatelessWidget {
             );
           }
 
-          // باقي العناصر: الكولز
           return CustomWidgetCall(model2: model[index - 1]);
         },
       ),
